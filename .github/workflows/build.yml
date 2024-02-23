@@ -58,3 +58,4 @@ jobs:
             ${{ steps.get_gopath.outputs.GOPATH }}/src/github.com/containers/skopeo/bin/skopeo
             ${{ steps.get_gopath.outputs.GOPATH }}/src/github.com/containers/skopeo/bin/skopeo.tar.xz
             ${{ steps.get_gopath.outputs.GOPATH }}/src/github.com/containers/skopeo/bin/skopeo.tar.gz
+            
